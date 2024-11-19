@@ -1,4 +1,4 @@
-$ echo "# Ser-Vor-Off" >> README.md
+$ echo "# Lurie Laskin git" >> README.md
 
 $ git init
 
